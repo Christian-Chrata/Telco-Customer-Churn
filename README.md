@@ -5,7 +5,7 @@ Welcome to our machine learning project focused on predicting customer churn in 
 ## 👥 Team Members
 
 - [Christian](https://github.com/Christian-Chrata)  
-- [Ditya](https://github.com/itzjanietz)  
+- [Ditya Anjani](https://github.com/itzjanietz)  
 - [Amira Afdhal](https://github.com/amiraafdhal)  
 
 ---
