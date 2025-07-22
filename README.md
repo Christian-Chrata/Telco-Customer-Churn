@@ -29,6 +29,8 @@ Welcome to our machine learning project focused on predicting customer churn in 
 - XGBoost & LightGBM
 - Jupyter Notebook
 - Pickle for model serialization
+- Tableau (for visual dashboards)
+- Streamlit (for app interface)
 
 ---
 
@@ -45,3 +47,14 @@ Welcome to our machine learning project focused on predicting customer churn in 
 
 - Customers with **low satisfaction**, **fiber internet**, and **high monthly charges** are more likely to churn.
 - Customers with **Online Security**, **Tech Support**, or **Device Protection**, and those with **high satisfaction scores**, are more loyal.
+
+---
+
+## 📊 Interactive Dashboards
+
+- **📈 Tableau Dashboard**:
+  ![alt text](image.png)
+  [View on Tableau Public](https://public.tableau.com/app/profile/ditya.ayu.anjani/viz/DashboardTelcoChurnatTelcoTechnologyFinpro/Dashboard)
+
+- **🚀 Streamlit Web App**:  
+  [View on streamlit]()
