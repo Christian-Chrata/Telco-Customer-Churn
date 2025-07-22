@@ -1,7 +1,3 @@
----
-marp: false
----
-
 # 📉 Telco Customer Churn Prediction
 
 Welcome to our machine learning project focused on predicting customer churn in the telecom industry. Using real-world inspired data, we developed and evaluated models to identify at-risk customers and uncover key drivers of churn.
