@@ -57,4 +57,4 @@ Welcome to our machine learning project focused on predicting customer churn in 
   [View on Tableau Public](https://public.tableau.com/app/profile/ditya.ayu.anjani/viz/DashboardTelcoChurnatTelcoTechnologyFinpro/Dashboard)
 
 - **🚀 Streamlit Web App**:  
-  [View on streamlit](https://telco-customer-churn-alpha.streamlit.app/)
+  [View on streamlit](https://telcocustomeralpha.streamlit.app/)
