@@ -53,7 +53,7 @@ Welcome to our machine learning project focused on predicting customer churn in 
 ## 📊 Interactive Dashboards
 
 - **📈 Tableau Dashboard**:
-  ![alt text](ETC/Dashboard.png)
+  ![alt text](Dashboard/Dashboard.png)
   [View on Tableau Public](https://public.tableau.com/app/profile/ditya.ayu.anjani/viz/DashboardTelcoChurnatTelcoTechnologyFinpro/Dashboard)
 
 - **🚀 Streamlit Web App**:  
